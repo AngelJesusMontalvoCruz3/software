@@ -1,0 +1,24 @@
+.transacciones-container {
+    text-align: center;
+    color: #e5c100;
+    margin-top: 20px;
+  }
+  
+  .transacciones-table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    color: #fff;
+    background-color: #222;
+  }
+  
+  .transacciones-table th, .transacciones-table td {
+    border: 1px solid #444;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .transacciones-table th {
+    background-color: #333;
+  }
+  

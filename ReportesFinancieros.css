@@ -1,0 +1,25 @@
+.reportes-container {
+    text-align: center;
+    color: #e5c100;
+    margin-top: 20px;
+  }
+  
+  .reportes-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .report-image {
+    width: 50%;
+    max-width: 500px;
+    margin-right: 20px;
+  }
+  
+  .reportes-text h2 {
+    margin: 10px 0;
+    font-size: 1.2em;
+    color: #ddd;
+    text-align: left;
+  }
+  
